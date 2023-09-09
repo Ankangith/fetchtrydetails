@@ -1,0 +1,12 @@
+.flex-container{
+  display:flex;
+  justify-content: center;
+}
+
+.detailsclass{
+  align-self: flex-start;
+}
+
+.starshiplist{
+  padding-right: 400px;
+}
